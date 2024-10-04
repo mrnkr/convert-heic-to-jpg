@@ -1,0 +1,20 @@
+{
+  "name": "convert-heic-to-jpg",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "Alvaro Nicoli <xmr.nkr@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "heic-convert": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/heic-convert": "^2.1.0",
+    "@types/node": "^22.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
